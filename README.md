@@ -71,7 +71,8 @@ This project was developed as a practical Arduino and sensor-based project. I wo
 
 ## 📁 Project Files
 
-- `LDR_Automatic_Light_Control.ino` — Arduino source code
+- `LDR_Sensor.ino` — Arduino source code
+- `LDR_Aumatic_Light_Control.pdf` — Project documentation
 - `project-preview.png` — Project preview image
 
 ## 📌 Author
